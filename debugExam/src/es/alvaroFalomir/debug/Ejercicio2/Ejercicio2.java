@@ -9,7 +9,7 @@ public class Ejercicio2 {
         long sum = 0;
 
         System.out.println("El valor de la variable aleatorio es " + aleatorio);
-
+        System.out.println("Este es el fin del programa y el segundo commit");//Segundo commit 
         /* Cambiar mediante el explorador de variables del debugger el valor 
          * de la varible aleatorio para que sea mayor de 100_000
          */
